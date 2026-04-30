@@ -57,7 +57,6 @@ fun_fact: I love deploying ideas — not just building them.
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
@@ -78,19 +77,6 @@ fun_fact: I love deploying ideas — not just building them.
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🌟 Project | 📋 Description | 🛠️ Stack | 🔗 Link |
-|:---:|:---|:---:|:---:|
-| **NoteFlow** | Real-time notes app with secure auth, deployed on AWS EC2 with clean UI/UX | React · Node.js · AWS EC2 · Nginx | [View →](https://github.com/Rajpardeshi205) |
-| **CryptoKart** | E-commerce app with Firebase Auth (Google + Email), cart & order system via Firestore | React · Firebase · Firestore | [View →](https://github.com/Rajpardeshi205) |
-| **PHP Notes API** | REST API with full CRUD, session-based auth & MySQL — hosted via Nginx + PHP-FPM | PHP · MySQL · Nginx · PHP-FPM | [View →](https://github.com/Rajpardeshi205) |
-
-</div>
 
 ---
 
