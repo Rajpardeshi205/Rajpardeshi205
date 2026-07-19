@@ -26,7 +26,7 @@
 
 </div>
 
-<img width="100%" height="4" src="https://singlecolorimage.com/get/7c0c02/1000x4"/>
+<img width="100%" height="4" src="https://img.shields.io/static/v1?label=&message=&color=7C0C02&style=flat-square"/>
 
 ## 🧠 About Me
 
@@ -49,7 +49,7 @@ goal:         Land a DevOps role at a top tech company 🚀
 fun_fact:     I love deploying ideas — not just building them.
 ```
 
-<img width="100%" height="4" src="https://singlecolorimage.com/get/7c0c02/1000x4"/>
+<img width="100%" height="4" src="https://img.shields.io/static/v1?label=&message=&color=7C0C02&style=flat-square"/>
 
 ## 🏅 Certifications
 
@@ -72,7 +72,7 @@ fun_fact:     I love deploying ideas — not just building them.
 
 </div>
 
-<img width="100%" height="4" src="https://singlecolorimage.com/get/7c0c02/1000x4"/>
+<img width="100%" height="4" src="https://img.shields.io/static/v1?label=&message=&color=7C0C02&style=flat-square"/>
 
 ## 🛠️ Tech Arsenal
 
@@ -98,7 +98,7 @@ fun_fact:     I love deploying ideas — not just building them.
 
 </div>
 
-<img width="100%" height="4" src="https://singlecolorimage.com/get/7c0c02/1000x4"/>
+<img width="100%" height="4" src="https://img.shields.io/static/v1?label=&message=&color=7C0C02&style=flat-square"/>
 
 ## ⚡ DevOps Journey
 
@@ -122,7 +122,7 @@ fun_fact:     I love deploying ideas — not just building them.
 
 </div>
 
-<img width="100%" height="4" src="https://singlecolorimage.com/get/7c0c02/1000x4"/>
+<img width="100%" height="4" src="https://img.shields.io/static/v1?label=&message=&color=7C0C02&style=flat-square"/>
 
 ## 📊 GitHub Stats
 
@@ -141,7 +141,7 @@ fun_fact:     I love deploying ideas — not just building them.
 
 </div>
 
-<img width="100%" height="4" src="https://singlecolorimage.com/get/7c0c02/1000x4"/>
+<img width="100%" height="4" src="https://img.shields.io/static/v1?label=&message=&color=7C0C02&style=flat-square"/>
 
 <div align="center">
 
