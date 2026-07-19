@@ -9,10 +9,9 @@
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raj%20Pardeshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-pardeshi/)
-[![Gmail](https://img.shields.io/badge/Gmail-Rajpardeshi205-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rajpardeshi205@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Rajpardeshi205-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajpardeshi205)
-
+[![LinkedIn](https://resources.vortexgaming.io/upload/post/2026/07/19/b65768567d8841348d1ca92930baea08.png)](https://www.linkedin.com/in/raj-pardeshi/)
+[![Gmail](https://resources.vortexgaming.io/upload/post/2026/07/19/f0e2dff9366c4134b06579f5cabf3e4f.png)](mailto:Rajpardeshi205@gmail.com)
+[![GitHub](https://resources.vortexgaming.io/upload/post/2026/07/19/4c78585a402744ba860be1276df9f3a5.png)](https://github.com/Rajpardeshi205)
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rajpardeshi205&label=Profile%20Views&color=7C3AED&style=flat-square)
@@ -57,7 +56,6 @@ fun_fact: I love deploying ideas — not just building them.
 </tr>
 </table>
 </div>
----
 
 ## 🛠️ Tech Arsenal
 
@@ -127,8 +125,6 @@ fun_fact: I love deploying ideas — not just building them.
 🔄  Docker  — Containerization (in progress)
 ⬜  Kubernetes — Orchestration (coming soon)
 ⬜  Terraform — Infrastructure as Code (coming soon)
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
