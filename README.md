@@ -1,165 +1,140 @@
 <div align="center">
 
-<!-- Dynamic Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,50:7c0c02,100:2b0000&height=220&section=header&text=Hi%20There,%20I'm%20Raj%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=DevOps%20Engineer%20%7C%20Cloud%20Learner&descAlignY=52&descSize=17&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e40af&height=200&section=header&text=Raj%20Pardeshi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20in%20the%20making&descAlignY=60&descSize=18" width="100%" />
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Turning+Ideas+into+Deployed+Reality+%F0%9F%9A%80;AWS+%7C+Docker+%7C+CI%2FCD+%7C+Kubernetes;Building+the+Future%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- Social Badges -->
-<a href="https://www.linkedin.com/in/raj-pardeshi/">
-  <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Raj+Pardeshi&color=7C0C02&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2b0000"/>
+<a href="https://github.com/YOUR-USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=%24+whoami;%24+cat+~%2F.about;%24+kubectl+get+dreams+--all-namespaces;%24+terraform+apply+-auto-approve" />
 </a>
-<a href="mailto:Rajpardeshi205@gmail.com">
-  <img src="https://img.shields.io/static/v1?label=Gmail&message=Rajpardeshi205&color=7C0C02&style=for-the-badge&logo=gmail&logoColor=white&labelColor=2b0000"/>
-</a>
-<a href="https://github.com/Rajpardeshi205">
-  <img src="https://img.shields.io/static/v1?label=GitHub&message=Rajpardeshi205&color=7C0C02&style=for-the-badge&logo=github&logoColor=white&labelColor=2b0000"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/static/v1?label=Profile%20Views&message=Live&color=7C0C02&style=for-the-badge&labelColor=2b0000"/>
-<img src="https://img.shields.io/github/followers/Rajpardeshi205?label=Followers&style=for-the-badge&color=7C0C02&labelColor=2b0000"/>
 
 </div>
 
-<img width="100%" height="4" src="https://img.shields.io/static/v1?label=&message=&color=7C0C02&style=flat-square"/>
+<br />
 
-## 🧠 About Me
+## `~/whoami`
 
-```yaml
-name:        Raj Pardeshi
-location:    India 🇮🇳
-role:        Aspiring DevOps Engineer
+> Aspiring DevOps engineer from India, obsessed with automating everything that shouldn't be done twice. Currently trading manual deploys for pipelines and servers for containers.
 
-focus:
-  - ☁️  Cloud Infrastructure (AWS)
-  - 🐳  Containerization (Docker + Kubernetes)
-  - ⚙️  CI/CD Automation (GitHub Actions)
-
-currently_learning:
-  - CI/CD Pipelines with GitHub Actions
-  - Docker & Container Orchestration
-  - Kubernetes Basics
-
-goal:         Land a DevOps role at a top tech company 🚀
-fun_fact:     I love deploying ideas — not just building them.
+```bash
+$ cat profile.env
+ROLE="Aspiring DevOps Engineer"
+LOCATION="India"
+FOCUS="AWS · Docker · Kubernetes · CI/CD"
+STATUS="Open to opportunities"
 ```
 
-<img width="100%" height="4" src="https://img.shields.io/static/v1?label=&message=&color=7C0C02&style=flat-square"/>
+<br />
 
-## 🏅 Certifications
-
-<div align="center">
+## `~/stack`
 
 <table>
 <tr>
-<td align="center" width="100%">
-<a href="https://www.credly.com/badges/b194c315-bf13-4c05-a6cd-92a52d967da7/public_url" target="_blank">
-<img src="https://images.credly.com/size/680x680/images/b6b54bbe-b797-49a3-b571-58ca96328b9b/blob" width="150" alt="AWS Certified Cloud Practitioner"/>
-<br/>
-<b>AWS Certified Cloud Practitioner</b>
-<br/>
-<sub>Issued by Amazon Web Services (AWS)</sub>
-<br/>
-<sub><a href="https://www.credly.com/badges/b194c315-bf13-4c05-a6cd-92a52d967da7/public_url">🔗 Verify Credential</a></sub>
+<td valign="top" width="33%">
+
+### Cloud & Infra
+- Amazon Web Services
+- Nginx
+- Linux (Ubuntu, Amazon Linux)
+
+</td>
+<td valign="top" width="33%">
+
+### Automation
+- GitHub Actions
+- Docker
+- Bash Scripting
+
+</td>
+<td valign="top" width="33%">
+
+### Foundations
+- Git & GitHub
+- Networking
+- Shell / Vim
+
 </td>
 </tr>
 </table>
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,terraform,nginx,linux,bash,git,github,vscode,vim&perline=12" />
 </div>
 
-<img width="100%" height="4" src="https://img.shields.io/static/v1?label=&message=&color=7C0C02&style=flat-square"/>
+<br />
 
-## 🛠️ Tech Arsenal
+## `~/roadmap`
+
+| Status | Milestone                     | Notes                                     |
+| :----: | :---------------------------- | :---------------------------------------- |
+|   ✓    | AWS EC2 deployments           | Static + dynamic sites in production      |
+|   ✓    | Nginx from scratch            | Reverse proxy, PHP-FPM tuning             |
+|   ✓    | Linux server administration   | Ubuntu, Amazon Linux                      |
+|   ✓    | Git & GitHub workflows        | Branching, PRs, collaboration             |
+|   ◐    | GitHub Actions                | Building end-to-end CI/CD                 |
+|   ◐    | Docker                        | Multi-stage builds, compose               |
+|   ○    | Kubernetes                    | Next up                                   |
+|   ○    | Terraform                     | Infra as code                             |
+
+<sub>`✓` shipped · `◐` in progress · `○` queued</sub>
+
+<br />
+
+## `~/credentials`
+
+<table>
+<tr>
+<td width="130" align="center">
+  <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110" />
+</td>
+<td>
+
+**AWS Certified Cloud Practitioner**
+*Amazon Web Services*
+[Verify credential →](https://www.credly.com/users/YOUR-CREDLY)
+
+</td>
+</tr>
+</table>
+
+<br />
+
+## `~/stats`
 
 <div align="center">
 
-### ☁️ DevOps & Cloud
-<img src="https://img.shields.io/static/v1?label=&message=AWS&color=7C0C02&style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/static/v1?label=&message=EC2&color=7C0C02&style=for-the-badge&logo=amazonec2&logoColor=white"/>
-<img src="https://img.shields.io/static/v1?label=&message=S3&color=7C0C02&style=for-the-badge&logo=amazons3&logoColor=white"/>
-<img src="https://img.shields.io/static/v1?label=&message=Nginx&color=7C0C02&style=for-the-badge&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/static/v1?label=&message=Linux&color=7C0C02&style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/static/v1?label=&message=Docker&color=7C0C02&style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/static/v1?label=&message=GitHub+Actions&color=7C0C02&style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" height="165" />
 
-### 🗄️ Databases
-<img src="https://img.shields.io/static/v1?label=&message=MongoDB&color=7C0C02&style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/static/v1?label=&message=MySQL&color=7C0C02&style=for-the-badge&logo=mysql&logoColor=white"/>
-
-### 🔧 Tools
-<img src="https://img.shields.io/static/v1?label=&message=Git&color=7C0C02&style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/static/v1?label=&message=GitHub&color=7C0C02&style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/static/v1?label=&message=VS+Code&color=7C0C02&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&bg_color=0d1117&color=c9d1d9&line=3b82f6&point=ffffff&area=true&hide_border=true" width="98%" />
 
 </div>
 
-<img width="100%" height="4" src="https://img.shields.io/static/v1?label=&message=&color=7C0C02&style=flat-square"/>
+<br />
 
-## ⚡ DevOps Journey
+## `~/connect`
+
+<div align="center">
+
+<a href="mailto:your.email@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=3b82f6&labelColor=0d1117" />
+</a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=3b82f6&labelColor=0d1117" />
+</a>
+<a href="https://github.com/YOUR-USERNAME">
+  <img src="https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=3b82f6&labelColor=0d1117" />
+</a>
+
+</div>
+
+<br />
 
 <div align="center">
 
 ```
-🗺️  ROADMAP PROGRESS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-✅  AWS EC2       — Deployed static & dynamic websites
-✅  Nginx         — Configured from scratch (reverse proxy, PHP-FPM)
-✅  Linux         — Managed Ubuntu & Amazon Linux servers
-✅  Git/GitHub    — Version control & collaboration
-🔄  GitHub Actions — CI/CD pipelines (in progress)
-🔄  Docker        — Containerization (in progress)
-⬜  Kubernetes    — Orchestration (coming soon)
-⬜  Terraform     — Infrastructure as Code (coming soon)
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+"Infrastructure should be code, deployment should be automatic,
+                    and sleep should be uninterrupted."
 ```
 
-</div>
-
-<img width="100%" height="4" src="https://img.shields.io/static/v1?label=&message=&color=7C0C02&style=flat-square"/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajpardeshi205&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=E63946&icon_color=E63946&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajpardeshi205&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=E63946&text_color=c9d1d9"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajpardeshi205&theme=transparent&hide_border=true&background=00000000&stroke=E63946&ring=7C0C02&fire=E63946&currStreakLabel=E63946"/>
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rajpardeshi205&bg_color=00000000&color=E63946&line=7C0C02&point=ffffff&hide_border=true"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,100:0f172a&height=100&section=footer" width="100%" />
 
 </div>
-
-<img width="100%" height="4" src="https://img.shields.io/static/v1?label=&message=&color=7C0C02&style=flat-square"/>
-
-<div align="center">
-
-## 📫 Let's Connect
-
-<a href="https://www.linkedin.com/in/raj-pardeshi/">
-  <img src="https://img.shields.io/static/v1?label=&message=Let's+Connect+on+LinkedIn&color=7C0C02&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:Rajpardeshi205@gmail.com">
-  <img src="https://img.shields.io/static/v1?label=&message=Drop+Me+an+Email&color=7C0C02&style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-> *"Infrastructure should be code, deployment should be automatic, and sleep should be uninterrupted."* 🌙
-
-</div>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,50:7c0c02,100:2b0000&height=140&section=footer"/>
