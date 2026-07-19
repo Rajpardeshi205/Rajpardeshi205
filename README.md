@@ -28,7 +28,7 @@
 <div align="center">
 
 <a href="https://www.credly.com/badges/b194c315-bf13-4c05-a6cd-92a52d967da7/public_url" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/b194c315-bf13-4c05-a6cd-92a52d967da7/image.png" width="170" alt="AWS Certified Cloud Practitioner"/>
+  <img src="https://images.credly.com/size/680x680/images/b6b54bbe-b797-49a3-b571-58ca96328b9b/blob" width="170" alt="AWS Certified Cloud Practitioner"/>
 </a>
 
 <br/><br/>
