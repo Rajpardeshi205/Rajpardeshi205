@@ -21,6 +21,28 @@
 
 ---
 
+---
+
+## 🏅 Certifications
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/b194c315-bf13-4c05-a6cd-92a52d967da7/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/b194c315-bf13-4c05-a6cd-92a52d967da7/image.png" width="170" alt="AWS Certified Cloud Practitioner"/>
+</a>
+
+<br/><br/>
+
+### AWS Certified Cloud Practitioner
+
+**Issued By:** Amazon Web Services (AWS)
+
+<a href="https://www.credly.com/badges/b194c315-bf13-4c05-a6cd-92a52d967da7/public_url">
+  Verify Credential →
+</a>
+
+</div>
+
 ## 🧠 About Me
 
 ```yaml
