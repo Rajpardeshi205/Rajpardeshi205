@@ -39,7 +39,25 @@ currently_learning:
 goal: Land a DevOps role at a top tech company 🚀
 fun_fact: I love deploying ideas — not just building them.
 ```
+🏅 Certifications
 
+<div align="center">
+<table>
+<tr>
+<td align="center" width="100%">
+<a href="https://www.credly.com/badges/b194c315-bf13-4c05-a6cd-92a52d967da7/public_url" target="_blank">
+<img src="https://images.credly.com/size/680x680/images/b6b54bbe-b797-49a3-b571-58ca96328b9b/blob" width="150" alt="AWS Certified Cloud Practitioner"/>
+<br/>
+<b>AWS Certified Cloud Practitioner</b>
+<br/>
+<sub>Issued by Amazon Web Services (AWS)</sub>
+<br/>
+<sub><a href="https://www.credly.com/badges/b194c315-bf13-4c05-a6cd-92a52d967da7/public_url">🔗 Verify Credential</a></sub>
+</td>
+</tr>
+</table>
+</div>
+<img width="100%" height="4" src="https://img.shields.io/static/v1?label=&message=&color=7C0C02&style=flat-square"/>
 ---
 
 ## 🛠️ Tech Arsenal
