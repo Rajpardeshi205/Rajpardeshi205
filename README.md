@@ -128,16 +128,16 @@ fun_fact:     I love deploying ideas — not just building them.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajpardeshi205&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=E63946&icon_color=E63946&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajpardeshi205&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=E63946&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajpardeshi205&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=E63946&icon_color=E63946&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajpardeshi205&layout=compact&theme=transparent&hide_border=true&title_color=E63946&text_color=c9d1d9"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajpardeshi205&theme=transparent&hide_border=true&background=00000000&stroke=E63946&ring=7C0C02&fire=E63946&currStreakLabel=E63946"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajpardeshi205&theme=transparent&hide_border=true&stroke=E63946&ring=7C0C02&fire=E63946&currStreakLabel=E63946"/>
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rajpardeshi205&bg_color=00000000&color=E63946&line=7C0C02&point=ffffff&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rajpardeshi205&color=E63946&line=7C0C02&point=ffffff&hide_border=true"/>
 
 </div>
 
