@@ -141,14 +141,6 @@ fun_fact: I love deploying ideas — not just building them.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rajpardeshi205&theme=onestar&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ## 📫 Let's Connect
