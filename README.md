@@ -1,47 +1,44 @@
 <div align="center">
 
 <!-- Dynamic Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%20There,%20I'm%20Raj%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=DevOps%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Cloud%20Learner&descAlignY=52&descSize=17&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,50:7c0c02,100:2b0000&height=220&section=header&text=Hi%20There,%20I'm%20Raj%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=DevOps%20Engineer%20%7C%20Cloud%20Learner&descAlignY=52&descSize=17&animation=fadeIn"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Turning+Ideas+into+Deployed+Reality+%F0%9F%9A%80;AWS+%7C+Docker+%7C+CI%2FCD+%7C+Kubernetes;Building+the+Future%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Turning+Ideas+into+Deployed+Reality+%F0%9F%9A%80;AWS+%7C+Docker+%7C+CI%2FCD+%7C+Kubernetes;Building+the+Future%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- Social Badges -->
 <a href="https://www.linkedin.com/in/raj-pardeshi/">
-  <img src="https://img.shields.io/badge/LinkedIn-Raj%20Pardeshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Raj+Pardeshi&color=7C0C02&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2b0000"/>
 </a>
 <a href="mailto:Rajpardeshi205@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Rajpardeshi205-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?label=Gmail&message=Rajpardeshi205&color=7C0C02&style=for-the-badge&logo=gmail&logoColor=white&labelColor=2b0000"/>
 </a>
 <a href="https://github.com/Rajpardeshi205">
-  <img src="https://img.shields.io/badge/GitHub-Rajpardeshi205-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?label=GitHub&message=Rajpardeshi205&color=7C0C02&style=for-the-badge&logo=github&logoColor=white&labelColor=2b0000"/>
 </a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rajpardeshi205&label=Profile%20Views&color=7C3AED&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/Rajpardeshi205?label=Followers&style=for-the-badge&color=7C3AED&labelColor=181717)
+<img src="https://img.shields.io/static/v1?label=Profile%20Views&message=Live&color=7C0C02&style=for-the-badge&labelColor=2b0000"/>
+<img src="https://img.shields.io/github/followers/Rajpardeshi205?label=Followers&style=for-the-badge&color=7C0C02&labelColor=2b0000"/>
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif"/>
+<img width="100%" height="4" src="https://singlecolorimage.com/get/7c0c02/1000x4"/>
 
 ## 🧠 About Me
-
-<img align="right" width="320" src="https://raw.githubusercontent.com/RyanCCollins/ryanccollins/master/roll-safe.gif"/>
 
 ```yaml
 name:        Raj Pardeshi
 location:    India 🇮🇳
-role:        Aspiring DevOps Engineer & Full-Stack Developer
+role:        Aspiring DevOps Engineer
 
 focus:
   - ☁️  Cloud Infrastructure (AWS)
   - 🐳  Containerization (Docker + Kubernetes)
   - ⚙️  CI/CD Automation (GitHub Actions)
-  - 🌐  Full-Stack Web Applications
 
 currently_learning:
   - CI/CD Pipelines with GitHub Actions
@@ -52,9 +49,7 @@ goal:         Land a DevOps role at a top tech company 🚀
 fun_fact:     I love deploying ideas — not just building them.
 ```
 
-<br clear="right"/>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif"/>
+<img width="100%" height="4" src="https://singlecolorimage.com/get/7c0c02/1000x4"/>
 
 ## 🏅 Certifications
 
@@ -77,44 +72,33 @@ fun_fact:     I love deploying ideas — not just building them.
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif"/>
+<img width="100%" height="4" src="https://singlecolorimage.com/get/7c0c02/1000x4"/>
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
 ### ☁️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<img src="https://img.shields.io/static/v1?label=&message=AWS&color=7C0C02&style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/static/v1?label=&message=EC2&color=7C0C02&style=for-the-badge&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/static/v1?label=&message=S3&color=7C0C02&style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/static/v1?label=&message=Nginx&color=7C0C02&style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/static/v1?label=&message=Linux&color=7C0C02&style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/static/v1?label=&message=Docker&color=7C0C02&style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/static/v1?label=&message=GitHub+Actions&color=7C0C02&style=for-the-badge&logo=githubactions&logoColor=white"/>
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/static/v1?label=&message=MongoDB&color=7C0C02&style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/static/v1?label=&message=MySQL&color=7C0C02&style=for-the-badge&logo=mysql&logoColor=white"/>
 
 ### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://img.shields.io/static/v1?label=&message=Git&color=7C0C02&style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/static/v1?label=&message=GitHub&color=7C0C02&style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/static/v1?label=&message=VS+Code&color=7C0C02&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif"/>
+<img width="100%" height="4" src="https://singlecolorimage.com/get/7c0c02/1000x4"/>
 
 ## ⚡ DevOps Journey
 
@@ -138,37 +122,37 @@ fun_fact:     I love deploying ideas — not just building them.
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif"/>
+<img width="100%" height="4" src="https://singlecolorimage.com/get/7c0c02/1000x4"/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajpardeshi205&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajpardeshi205&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajpardeshi205&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=E63946&icon_color=E63946&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajpardeshi205&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=E63946&text_color=c9d1d9"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajpardeshi205&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=7C3AED&fire=FF6B6B&currStreakLabel=A78BFA"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajpardeshi205&theme=transparent&hide_border=true&background=00000000&stroke=E63946&ring=7C0C02&fire=E63946&currStreakLabel=E63946"/>
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rajpardeshi205&bg_color=0D1117&color=A78BFA&line=7C3AED&point=ffffff&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rajpardeshi205&bg_color=00000000&color=E63946&line=7C0C02&point=ffffff&hide_border=true"/>
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif"/>
+<img width="100%" height="4" src="https://singlecolorimage.com/get/7c0c02/1000x4"/>
 
 <div align="center">
 
 ## 📫 Let's Connect
 
 <a href="https://www.linkedin.com/in/raj-pardeshi/">
-  <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Let's+Connect+on+LinkedIn&color=7C0C02&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:Rajpardeshi205@gmail.com">
-  <img src="https://img.shields.io/badge/Drop%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Drop+Me+an+Email&color=7C0C02&style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -178,4 +162,4 @@ fun_fact:     I love deploying ideas — not just building them.
 </div>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,50:7c0c02,100:2b0000&height=140&section=footer"/>
