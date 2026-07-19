@@ -57,7 +57,6 @@ fun_fact: I love deploying ideas — not just building them.
 </tr>
 </table>
 </div>
-<img width="100%" height="4" src="https://img.shields.io/static/v1?label=&message=&color=7C0C02&style=flat-square"/>
 ---
 
 ## 🛠️ Tech Arsenal
@@ -102,9 +101,6 @@ fun_fact: I love deploying ideas — not just building them.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajpardeshi205&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajpardeshi205&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED"/>
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajpardeshi205&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED"/>
@@ -137,13 +133,6 @@ fun_fact: I love deploying ideas — not just building them.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rajpardeshi205&theme=onestar&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
