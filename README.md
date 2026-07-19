@@ -21,6 +21,8 @@
 
 ---
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b194c315-bf13-4c05-a6cd-92a52d967da7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ## 🧠 About Me
 
 ```yaml
