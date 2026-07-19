@@ -1,68 +1,83 @@
 <div align="center">
 
 <!-- Dynamic Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Raj%20Pardeshi&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Cloud%20Learner&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%20There,%20I'm%20Raj%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=DevOps%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Cloud%20Learner&descAlignY=52&descSize=17&animation=fadeIn"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Turning+Ideas+into+Deployed+Reality+%F0%9F%9A%80;AWS+%7C+Docker+%7C+CI%2FCD+%7C+Kubernetes;Building+the+Future%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Turning+Ideas+into+Deployed+Reality+%F0%9F%9A%80;AWS+%7C+Docker+%7C+CI%2FCD+%7C+Kubernetes;Building+the+Future%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raj%20Pardeshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-pardeshi/)
-[![Gmail](https://img.shields.io/badge/Gmail-Rajpardeshi205-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rajpardeshi205@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Rajpardeshi205-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajpardeshi205)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Rajpardeshi205&label=Profile%20Views&color=7C3AED&style=flat-square)
-
-</div>
-
----
-
----
-
-## 🏅 Certifications
-
-<div align="center">
-
-<a href="https://www.credly.com/badges/b194c315-bf13-4c05-a6cd-92a52d967da7/public_url" target="_blank">
-  <img src="https://images.credly.com/size/680x680/images/b6b54bbe-b797-49a3-b571-58ca96328b9b/blob" width="170" alt="AWS Certified Cloud Practitioner"/>
+<a href="https://www.linkedin.com/in/raj-pardeshi/">
+  <img src="https://img.shields.io/badge/LinkedIn-Raj%20Pardeshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:Rajpardeshi205@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Rajpardeshi205-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Rajpardeshi205">
+  <img src="https://img.shields.io/badge/GitHub-Rajpardeshi205-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-### AWS Certified Cloud Practitioner
-
-**Issued By:** Amazon Web Services (AWS)
-
-<a href="https://www.credly.com/badges/b194c315-bf13-4c05-a6cd-92a52d967da7/public_url">
-  Verify Credential →
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=Rajpardeshi205&label=Profile%20Views&color=7C3AED&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/Rajpardeshi205?label=Followers&style=for-the-badge&color=7C3AED&labelColor=181717)
 
 </div>
 
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif"/>
+
 ## 🧠 About Me
 
+<img align="right" width="320" src="https://raw.githubusercontent.com/RyanCCollins/ryanccollins/master/roll-safe.gif"/>
+
 ```yaml
-name: Raj Pardeshi
-location: India 🇮🇳
-role: Aspiring DevOps Engineer & Full-Stack Developer
+name:        Raj Pardeshi
+location:    India 🇮🇳
+role:        Aspiring DevOps Engineer & Full-Stack Developer
+
 focus:
   - ☁️  Cloud Infrastructure (AWS)
   - 🐳  Containerization (Docker + Kubernetes)
   - ⚙️  CI/CD Automation (GitHub Actions)
   - 🌐  Full-Stack Web Applications
+
 currently_learning:
   - CI/CD Pipelines with GitHub Actions
   - Docker & Container Orchestration
   - Kubernetes Basics
-goal: Land a DevOps role at a top tech company 🚀
-fun_fact: I love deploying ideas — not just building them.
+
+goal:         Land a DevOps role at a top tech company 🚀
+fun_fact:     I love deploying ideas — not just building them.
 ```
 
----
+<br clear="right"/>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif"/>
+
+## 🏅 Certifications
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="100%">
+<a href="https://www.credly.com/badges/b194c315-bf13-4c05-a6cd-92a52d967da7/public_url" target="_blank">
+<img src="https://images.credly.com/size/680x680/images/b6b54bbe-b797-49a3-b571-58ca96328b9b/blob" width="150" alt="AWS Certified Cloud Practitioner"/>
+<br/>
+<b>AWS Certified Cloud Practitioner</b>
+<br/>
+<sub>Issued by Amazon Web Services (AWS)</sub>
+<br/>
+<sub><a href="https://www.credly.com/badges/b194c315-bf13-4c05-a6cd-92a52d967da7/public_url">🔗 Verify Credential</a></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif"/>
 
 ## 🛠️ Tech Arsenal
 
@@ -99,53 +114,54 @@ fun_fact: I love deploying ideas — not just building them.
 
 </div>
 
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajpardeshi205&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajpardeshi205&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajpardeshi205&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajpardeshi205&bg_color=0D1117&color=7C3AED&line=7C3AED&point=ffffff&hide_border=true"/>
-
-</div>
-
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif"/>
 
 ## ⚡ DevOps Journey
+
+<div align="center">
 
 ```
 🗺️  ROADMAP PROGRESS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-✅  AWS EC2 — Deployed static & dynamic websites
-✅  Nginx   — Configured from scratch (reverse proxy, PHP-FPM)
-✅  Linux   — Managed Ubuntu & Amazon Linux servers
-✅  Git/GitHub — Version control & collaboration
+✅  AWS EC2       — Deployed static & dynamic websites
+✅  Nginx         — Configured from scratch (reverse proxy, PHP-FPM)
+✅  Linux         — Managed Ubuntu & Amazon Linux servers
+✅  Git/GitHub    — Version control & collaboration
 🔄  GitHub Actions — CI/CD pipelines (in progress)
-🔄  Docker  — Containerization (in progress)
-⬜  Kubernetes — Orchestration (coming soon)
-⬜  Terraform — Infrastructure as Code (coming soon)
+🔄  Docker        — Containerization (in progress)
+⬜  Kubernetes    — Orchestration (coming soon)
+⬜  Terraform     — Infrastructure as Code (coming soon)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
----
+</div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif"/>
 
-## 📫 Let's Connect
+## 📊 GitHub Stats
 
 <div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajpardeshi205&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajpardeshi205&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajpardeshi205&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=7C3AED&fire=FF6B6B&currStreakLabel=A78BFA"/>
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rajpardeshi205&bg_color=0D1117&color=A78BFA&line=7C3AED&point=ffffff&hide_border=true"/>
+
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif"/>
+
+<div align="center">
+
+## 📫 Let's Connect
 
 <a href="https://www.linkedin.com/in/raj-pardeshi/">
   <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -162,4 +178,4 @@ fun_fact: I love deploying ideas — not just building them.
 </div>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer"/>
